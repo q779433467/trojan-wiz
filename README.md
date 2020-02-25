@@ -11,7 +11,6 @@
 - centos 7+
 
 
-# 给作者一些改进和升级这个脚本的动力：
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/1.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/2.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/3.jpg)
+![你所见的，皆是幻象](https://img.moegirl.org/common/e/e7/Renge_Bishoujo_Mangekyou_v2.png)
+<br>
+<a href="https://www.vultr.com/?ref=8372571-6G">Whatever You See Is Only An Imagination.</a>
